@@ -200,13 +200,13 @@ For the ease of Training and Implementation flow, following structure would be a
 
 In order to start with the suggested Dataset from the Research Paper, access this link and use it accordingly, with Label Annotations as train.csv and test.csv. As it was already pre-processed, Running Dataset_PreProcessing.py won't be a requirement.
 
-https://drive.google.com/drive/folders/11YKYq6Go6RmIXziIYts5nB97e9LVstzd?usp=sharing
+https://drive.google.com/drive/folders/1dNGICFvzV1gF66QIz8RVizMeyaON6APp?usp=sharing
 
 ## Test Run using Pre-Trained Pipeline
 
 Run Pre_Trained_Pipeline.py with the Directory Paths mentioned accordingly.
 
-Pre-Trained Model Weights ---> https://drive.google.com/drive/folders/15-Mtxa5xtQzt-5WVYO17u9uixWlcXO8l?usp=sharing
+Pre-Trained Model Weights ---> https://drive.google.com/file/d/1tHIDYe83hk4k0y511zx8ELh7UlQ2KHWP/view?usp=sharing
 
 ## Documentations and Resources
 
