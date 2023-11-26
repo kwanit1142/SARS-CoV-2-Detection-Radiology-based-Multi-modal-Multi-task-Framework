@@ -1,4 +1,4 @@
-# Respiratory-Scans based COVID-19 Detection using Multi-Modal Multi-Task Learning Framework
+# SARS-CoV-2 Detection: Radiology based Multi-modal Multi-task Framework
 
 ## About
 
